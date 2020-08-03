@@ -1,4 +1,4 @@
-# DecoratorExercise
+# Decorator Pattern Exercise
 
 Inheritance is one form of extension, but not necessarily the best way to achieve flexibility in our designs.
 
